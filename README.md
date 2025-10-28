@@ -22,7 +22,7 @@ Generated files are usable with the web application [Typst](https://typst.app). 
 The user needs to provide matrices in the following formats (for both console and files):  
 `.typ` files are exceptions – leave them as written.  
 **Example for an n×n matrix:**
-c
+```c
 [[a,b,c],[d,e,f],[g,h,i]]
 Example for a row matrix:
 
